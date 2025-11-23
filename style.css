@@ -533,11 +533,7 @@ img {
 
     width: 125px;
     height: 30px;
-    background: linear-gradient(90deg, 
-        rgba(76, 159, 76, 0.8) 0%, 
-        rgba(123, 246, 92, 0.6) 50%, 
-        #166534 100%
-    );
+    background: linear-gradient(90deg, #16a34a85 0%, #22c55e00 60%); 
     border-radius: 5px;
 }
 .tabpanel__title {
